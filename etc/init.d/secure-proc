@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "- Locking down /proc"
+chmod 700 /proc

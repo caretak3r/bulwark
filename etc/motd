@@ -1,0 +1,39 @@
+################################################################################
+############# We're taking off! Destination? The space defense station... ######
+################################################################################
+                                                   ,:
+                                                 ,' |
+                                                /   :
+                                             --'   /
+                                             \/ />/
+                                             / /_\
+                                          __/   /
+                                          )'-. /
+                                          ./  :\
+                                           /.' '
+                                         '/'
+                                         +
+                                        '
+                                      `.
+                                  .-"-
+                                 (    |
+                              . .-'  '.
+                             ( (.   )8:
+                         .'    / (_  )
+                          _. :(.   )8P  `
+                      .  (  `-' (  `.   .
+                       .  :  (   .a8a)
+                      /_`( "a `a. )"'
+                  (  (/  .  ' )=='
+                 (   (    )  .8"   +
+################################################################################
+ __ __ __  Maintainer: @caretaker
+|_ /    _) PCI Hardened CentOS 8 | Version: 1.20.1
+|__\__ /__ OS Documentation: https://wiki.centos.org/Documentation
+
+WARNING: Unauthorized access to this system is forbidden and will be prosecuted
+by law. By accessing this system, you agree that your actions may be monitored
+for any reason.
+
+NOTES: If you want an improved BASH experience, execute: install_ohmybash
+################################################################################
